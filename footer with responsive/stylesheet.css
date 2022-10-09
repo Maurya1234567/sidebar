@@ -1,0 +1,53 @@
+header {
+    float: left;
+    width: 100%;
+}
+
+header img {
+    width: 100%;
+}
+
+
+/* footer start */
+
+.footer {
+    width: 100%;
+    padding: 1% 0%;
+    background: transparent;
+}
+
+.footer ul {
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    color: inherit;
+    opacity: 0.8;
+    color: #690b0b;
+}
+
+.footer ul li {
+    display: inline-block;
+    padding: 0 15px;
+}
+
+.footer ul li a:hover {
+    opacity: 1;
+}
+
+.footer .copyright {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 19px;
+    color: rgb(246, 93, 46);
+}
+
+
+/* footer end */
